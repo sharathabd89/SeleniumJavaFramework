@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-24T12:04:24 IST" name="Default suite" finished-at="2022-06-24T12:04:29 IST" duration-ms="4924">
+    <groups>
+    </groups>
+    <test started-at="2022-06-24T12:04:24 IST" name="Default test" finished-at="2022-06-24T12:04:29 IST" duration-ms="4924">
+      <class name="com.sgtesting.happypath.PostMethod">
+        <test-method signature="postMethod()[pri:0, instance:com.sgtesting.happypath.PostMethod@732c2a62]" started-at="2022-06-24T12:04:24 IST" name="postMethod" finished-at="2022-06-24T12:04:29 IST" duration-ms="4838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethod -->
+      </class> <!-- com.sgtesting.happypath.PostMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
