@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [education]">
+  <test thread-count="5" name="Smoketesting(failed)">
+    <classes>
+      <class name="seleniumauto.NewTest">
+        <methods>
+          <include name="verifyit"/>
+        </methods>
+      </class> <!-- seleniumauto.NewTest -->
+    </classes>
+  </test> <!-- Smoketesting(failed) -->
+</suite> <!-- Failed suite [education] -->
